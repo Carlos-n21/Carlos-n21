@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carlos-n21
 - 👀 I’m interested in coding, sports, fitness, music, motors, hardware
-- 🌱 I’m currently learning python and HTML
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on different projects as my skills improve, newbie to coding
 - 📫 How to reach me: send me a message,generally reply within a day.
 - 😄 Pronouns: he, him

@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, sports, fitness, music, motors, hardware
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on different projects as my skills improve, newbie to coding
-- 📫 How to reach me: send me a message,generally reply within a day.
+- 📫 How to reach me: send me a message and generally reply within a day.
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: sometimes easily distracted
 
